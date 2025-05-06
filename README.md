@@ -2,16 +2,15 @@
 
 This repository contains the final project for CS3, focusing on the analysis of the Human Development Index (HDI) and Gender Development Index (GDI) across various countries using R. The project includes data cleaning, exploratory data analysis, time series modeling (ARIMA), and forecasting.
 
-File Structure
-CS3-FinalProj/
-├── MATERIALS/
-│   ├── data_cleaning.R
-│   ├── exploratory_analysis.R
-│   ├── arima_modeling.R
-│   └── forecasting.R
-├── HOOK.pdf
-├── RUBRIC.pdf
-└── README.md
+File Structure of CS3-FinalProj:
+MATERIALS
+  data_cleaning.R
+  exploratory_analysis.R
+  arima_modeling.R
+    forecasting.R
+HOOK.pdf
+RUBRIC.pdf
+README.md
 
 MATERIALS
 This directory contains all the R scripts used in the project:
